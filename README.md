@@ -13,19 +13,13 @@ The idea of the project is as an intra-organizational employment-oriented servic
 
 Our application boasts of several features:
 1.The app also uses third party features such as Google map to give out users better depth into their prospective employees.
-![image](https://user-images.githubusercontent.com/97121860/198891789-d098cc29-65ed-4d4b-9327-48426c340bc3.png)
-
-2. The app will able to computerize all details regarding patient details & hospital details. ![image](https://user-images.githubusercontent.com/97121860/198891817-650beb63-805c-45ce-8675-5568bd2ef6d1.png)
-
-3. To automate the process of ward entries. ![image](https://user-images.githubusercontent.com/97121860/198891835-e5fdbb9b-c7da-47e9-8f2d-911fb610823d.png)
- 
-4.  To maintain records effectively. ![image](https://user-images.githubusercontent.com/97121860/198891854-ef838e02-1454-4b93-9dfd-7790c69241f2.png)
- 
-5.  To manage current status of staff and doctor availability. ![image](https://user-images.githubusercontent.com/97121860/198891875-8b7db1a3-6714-4d00-b968-4ba6080c2955.png)
+2.The app will able to computerize all details regarding patient details & hospital details. 
+3.To automate the process of ward entries. 
+4.To maintain records effectively.
+5.To manage current status of staff and doctor availability.
 6.The project will have information regarding the inpatient details, outpatient Details, Billing details and Ambulance details.
-![image](https://user-images.githubusercontent.com/97121860/198891892-85228019-8ec9-4016-9074-651414885ed6.png)
 7.This app will includes facilities such as Admission ,Inpatient , Outpatient ,Staff Details , Payroll ,Personnel Details , Attendance, Billing , Consultation , Doctor page , Appointments check etc.
-![image](https://user-images.githubusercontent.com/97121860/198891913-909300f1-a1d3-4e79-ad90-f994a821fc83.png)
+
 
 
 
