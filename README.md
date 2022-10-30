@@ -1,4 +1,4 @@
-# Skill Hub 2.0
+# First Aiders
 
 ## Domain 
 
@@ -19,7 +19,7 @@ Our application boasts of several features:
 • To manage current status of staff and doctor availability. 
 • The project will have information regarding the inpatient details, outpatient Details, Billing details and Ambulance details.
 • This app will includes facilities such as Admission ,Inpatient , Outpatient ,Staff Details , Payroll ,Personnel Details , Attendance, Billing , Consultation , Doctor page , Appointments check etc.
-![image](https://user-images.githubusercontent.com/97121860/198891630-5e30e821-65dc-46b6-be07-088224e1d9fa.png)
+
 
 
  
