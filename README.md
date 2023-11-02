@@ -34,19 +34,19 @@ In summary, our intra-organizational employment-oriented service via mobile apps
 # Achievements
 
 Our application boasts of several features:
-1.The app also uses third party features such as Google map to give out users better depth into their prospective employees.
+1. The app also uses third party features such as Google map to give out users better depth into their prospective employees.
 
-2.The app will able to computerize all details regarding patient details & hospital details. 
+2. The app will able to computerize all details regarding patient details & hospital details. 
 
-3.To automate the process of ward entries. 
+3. To automate the process of ward entries. 
 
-4.To maintain records effectively.
+4. To maintain records effectively.
 
-5.To manage current status of staff and doctor availability.
+5. To manage current status of staff and doctor availability.
 
-6.The project will have information regarding the inpatient details, outpatient Details, Billing details and Ambulance details.
+6. The project will have information regarding the inpatient details, outpatient Details, Billing details and Ambulance details.
 
-7.This app will includes facilities such as Admission ,Inpatient , Outpatient ,Staff Details , Payroll ,Personnel Details , Attendance, Billing , Consultation , Doctor page , Appointments check etc.
+7. This app will includes facilities such as Admission ,Inpatient , Outpatient ,Staff Details , Payroll ,Personnel Details , Attendance, Billing , Consultation , Doctor page , Appointments check etc.
 
 
 
